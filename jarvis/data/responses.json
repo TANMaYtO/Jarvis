@@ -1,0 +1,50 @@
+{
+    "greeting": [
+        "Hello sir, how may I assist you today?",
+        "At your service, sir.",
+        "How can I help you?",
+        "Jarvis online. What can I do for you?"
+    ],
+    "farewell": [
+        "Goodbye, sir.",
+        "Shutting down.",
+        "Until next time, sir.",
+        "Jarvis going offline."
+    ],
+    "thanks": [
+        "You're welcome, sir.",
+        "Happy to help.",
+        "My pleasure.",
+        "Anytime, sir."
+    ],
+    "unknown_command": [
+        "I'm sorry, I didn't understand that command.",
+        "I'm not sure what you're asking for.",
+        "Could you please rephrase that?",
+        "I didn't quite catch that."
+    ],
+    "error": [
+        "I encountered an error trying to do that.",
+        "I'm having trouble with that task.",
+        "Something went wrong.",
+        "I wasn't able to complete that task."
+    ],
+    "success": [
+        "Task completed successfully.",
+        "Done.",
+        "Completed as requested.",
+        "Task executed successfully."
+    ],
+    "thinking": [
+        "Let me think about that...",
+        "Processing...",
+        "Working on it...",
+        "One moment, please..."
+    ],
+    "listening": [
+        "I'm listening...",
+        "Go ahead, I'm listening.",
+        "What can I do for you?",
+        "How may I assist you?"
+    ]
+}
